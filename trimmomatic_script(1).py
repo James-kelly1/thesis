@@ -1,7 +1,7 @@
 
 # script uses the conda installation of Trimmomatic
 # this means that you don't have to do all the 'java -jar' stuff
-
+# If this comment appears then I have successfully changed a file
 
 import os
 seq_dir = 'test_dataset'
